@@ -1,2 +1,2 @@
 # ML-Christ
-ML activities done in christ
+Data Analysis and ML projects done
